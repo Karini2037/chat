@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84365418205",
+    "project_id": "chat1-131eb",
+    "storage_bucket": "chat1-131eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84365418205:android:f7eb505b533d3efe1ac534",
+        "android_client_info": {
+          "package_name": "chat.senac.teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGG_YWkNxkzVeK6PysoQv3f5vR0PnqJ3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
